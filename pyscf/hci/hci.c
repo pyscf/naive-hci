@@ -25,7 +25,6 @@
 #include <math.h>
 #include <assert.h>
 #include "hci.h"
-//#include <omp.h>
 #include <limits.h>
 
 // Computes C' = H * C in the selected CI basis
