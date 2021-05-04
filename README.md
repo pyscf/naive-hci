@@ -7,7 +7,7 @@ HCI module for PySCF
 
 Install
 -------
-* Install to python site-package folder
+* Install to python site-packages folder
 ```
 pip install https://github.com/pyscf/naive_hci
 ```
