@@ -9,7 +9,7 @@ Install
 -------
 * Install to python site-packages folder
 ```
-pip install git+git://github.com/pyscf/naive-hci
+pip install git+https://github.com/pyscf/naive-hci
 ```
 
 * Install in a custom folder for development
